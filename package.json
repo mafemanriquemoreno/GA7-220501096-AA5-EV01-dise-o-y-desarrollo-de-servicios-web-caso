@@ -1,0 +1,21 @@
+{
+  "name": "api-autenticacion",
+  "version": "1.0.0",
+  "description": "API para registro y login de usuarios (Evidencia 14 guia 7 SENA)",
+  "main": "index.js",
+  "scripts": {
+  "dev": "nodemon index.js"
+},
+  "keywords": [
+    "api",
+    "express",
+    "node",
+    "sena"
+  ],
+  "author": "Maria Fernanda Manrique Moreno y Luis Felipe velez Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
