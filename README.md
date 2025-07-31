@@ -153,11 +153,3 @@ Este proyecto fue desarrollado con dedicación y esfuerzo por:
 ## 📜 Agradecimientos Especiales
 
 Extendemos nuestro sincero agradecimiento al programa de formación **Análisis y Desarrollo de Software (ADSO)** del **Servicio Nacional de Aprendizaje (SENA)** en Colombia por brindarnos la oportunidad de desarrollar este proyecto y fortalecer nuestras habilidades.
-
------
-
-**Julio de 2025**
-
------
-
-Espero que esta versión te guste más y le dé un toque más profesional y atractivo a tu README. ¡Mucha suerte con tu proyecto\!
